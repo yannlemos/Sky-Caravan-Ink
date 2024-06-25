@@ -113,3 +113,9 @@ Intro.ink is the second attempt at writing an introduction for the game. It was 
 ## Demo
 
 Effects.ink is an onboarding I wrote for the other game writers to teach them how to use the functions I had made for dialogue game feel. I loved doing it, wish we could have done it more during the game's development, because it was a really effective way to show the functions in action, while also being a reference that we used a lot to look at how they worked while we were writing. It's not featured in the final game at all, it's just an internal dev scene.
+
+# Conclusion
+
+Sky Caravan is still one of the works I'm most proud of, and I'm happy to share all this publicly, for free, with the blessing from my team at Studio Bravarda. I hope this helps other writers of Ink, and interactive narratives in general. 
+
+If you have any additional questions about the game or the repo, feel free to get in touch. I love talking about this beautiful mess that I made with my friends. Hope it helps you.
