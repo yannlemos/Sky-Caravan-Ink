@@ -11,7 +11,7 @@ Complete .ink directory for Sky Caravan.
 
 🌐 [Steam Page](https://store.steampowered.com/app/1792270/Sky_Caravan/)
 
-# What is this?
+# About
 
 Sky Caravan is a text-based RPG released in 2022 on Steam and Switch, developed by [Studio Bravarda](https://studiobravarda.com/home-en), my game development company. I was both an engineer and writer for the game, which means I became very well acquainted with our technology of choice for building the interactive narrative: the [Ink scripting language](https://github.com/inkle/ink).
 
