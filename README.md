@@ -118,4 +118,8 @@ Effects.ink is an onboarding I wrote for the other game writers to teach them ho
 
 Sky Caravan is still one of the works I'm most proud of, and I'm happy to share all this publicly, for free, with the blessing from my team at Studio Bravarda. I hope this helps other writers of Ink and interactive narratives in general.
 
-If you have any additional questions about the game or the repo, feel free to get in touch. I love talking about this beautiful mess that I made with my friends. Hope it helps you make yours.
+If you have any additional questions about the game or the repo, feel free to get in touch. 
+
+I love talking about this beautiful mess that I made with my friends. 
+
+Hope it helps you make yours.
