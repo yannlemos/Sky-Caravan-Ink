@@ -26,6 +26,11 @@ I'm going to describe some interesting things that are contained in the script, 
 > During the game's development, the Ink became so intertwined with Unity-specific stuff that it became impossible to test the script outside the game's project in Unity, which I unfortunately am not able to release publicly.
 > I wouldn't do this again; it makes testing really cumbersome, but it is what it is.
 
+> > [!TIP]
+> If you plan on using Ink for your Unity game, you're bound to run into one of Ink's drawbacks: localization. It's pretty difficult to do it because there's no built-in support for it. I recommend checking out this tool: 
+> https://openupm.com/packages/it.lemurivolta.ink-translate/
+> It provides in-engine support inside Unity for localization. I also recommend solving the localization question as early as possible, as it has a lot of ramifications during development and can be pretty deadly if you leave it to the final moments.
+
 # Deep Dive
 
 First of all, the folder is rendered as it is inside Unity Engine, contained inside the Assets folder in the project's directory. In the root, there's a Master.ink file. This is the starting point for the parsing of the Ink and where we contain all the story's state and reusable scenes. The Master.ink contains paths to all the other game's Ink files, which are themselves contained in specific folders deeper in the folder hierarchy.
